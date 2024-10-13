@@ -25,7 +25,6 @@
   <img width="12" />
    <img src="https://cdnlogo.com/logos/l/23/laravel.svg" height="30" alt="Laravel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
 </div>
 
 ###
