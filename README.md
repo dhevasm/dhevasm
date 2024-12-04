@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">Ny Name Dheva from Surabaya<br><br>- 🔭 I’m Studying at SMKN 2 Surabaya <br>- 📚 I'm currently learning Web Developer<br>- ⚡ In my free time I Learning Mobile Apps</p>
+<p align="left">
+  My Name Dheva from Surabaya<br>
+  <br>- 🔭 Currently Studying at SMKN 2 Surabaya 
+  <br>- 📚 Currently Learning Web Developer
+  <br>- ⚡ In my free time I Learning Mobile Apps
+
+</p>
 
 ###
 
