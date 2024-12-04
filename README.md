@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-  My Name Dheva from Surabaya<br>
+  My Name Dheva from Indonesia<br>
   <br>- 🔭 Currently Studying at SMKN 2 Surabaya 
   <br>- 📚 Currently Learning Web Developer
   <br>- ⚡ In my free time I Learning Mobile Apps
