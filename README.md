@@ -6,6 +6,18 @@
 
 ###
 
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Ny Name Dheva from Surabaya<br><br>- 🔭 I’m Studying at SMKN 2 Surabaya <br>- 📚 I'm currently learning Web Developer<br>- ⚡ In my free time I Learning Mobile Apps</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
